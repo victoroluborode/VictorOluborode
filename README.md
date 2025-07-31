@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a backend developer who enjoys solving complex problems by writing clean, efficient code. I’m especially drawn to building the backend layer, where logic, structure, and data work together to power real applications.<br><br>Using Node.js and Express, I’ve built systems that handle authentication (JWT, passwordless, RBAC) with PostgreSQL, real-time event tracking with MongoDB, and modular REST APIs with versioning and clean architecture. I test my APIs using Postman and Jest, and deploy them on platforms like Render and Railway.<br><br>I approach every project by understanding the “why” before jumping into the “how,” and I enjoy learning fast when faced with new challenges.<br><br>I’m currently seeking a backend internship or junior role where I can make meaningful contributions and continue growing. If you’re hiring and looking for a developer who is reliable, curious, and ready to build, please feel free to reach out.<br>
+Backend developer focused on building clean, modular APIs with Node.js, Express, and PostgreSQL. Currently building an enterprise-grade authentication service with advanced features like RBAC, passwordless auth, and multi-tenant support. I care about clean architecture, versioned APIs, and solving real problems through backend systems.<br>
 
 
 ## 🌐 Socials:
