@@ -19,3 +19,20 @@ Backend developer focused on building clean, modular APIs with Node.js, Express,
 [![](https://visitcount.itsvg.in/api?id=victoroluborode&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoroluborode&label=Profile%20views&color=0e75b6&style=flat" alt="victoroluborode" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victoroluborode" alt="victoroluborode" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoroluborode&show_icons=true&locale=en&layout=compact" alt="victoroluborode" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoroluborode&show_icons=true&locale=en" alt="victoroluborode" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victoroluborode&" alt="victoroluborode" /></p>
+
