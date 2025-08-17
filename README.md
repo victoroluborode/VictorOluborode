@@ -24,6 +24,5 @@ Backend developer focused on building clean, modular APIs with Node.js, Express,
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victoroluborode" alt="victoroluborode" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
