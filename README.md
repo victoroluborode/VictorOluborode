@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend developer focused on building clean, modular APIs with Node.js, Express, and PostgreSQL. Currently building an enterprise-grade authentication service with advanced features like RBAC, passwordless auth, and multi-tenant support. I care about clean architecture, versioned APIs, and solving real problems through backend systems.<br>
+I'm a backend developer focused on building clean, modular APIs with Node.js, Express, and PostgreSQL. Currently building an enterprise-grade authentication service with advanced features like RBAC, passwordless auth, and multi-tenant support. I care about clean architecture, versioned APIs, and solving real problems through backend systems.<br>
 
 
 ## 🌐 Socials:
